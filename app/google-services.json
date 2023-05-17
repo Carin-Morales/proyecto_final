@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "312084842680",
+    "project_id": "proyecto-final-f4912",
+    "storage_bucket": "proyecto-final-f4912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312084842680:android:fb258e4326d584de448c4d",
+        "android_client_info": {
+          "package_name": "com.ugb.catalogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312084842680-imr3nakt22kei5opgn7trblbo5d41lik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ut4alQ6bolLLs-AbcHf26gnbGrIn68w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312084842680-imr3nakt22kei5opgn7trblbo5d41lik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312084842680:android:49e55a73c46b560f448c4d",
+        "android_client_info": {
+          "package_name": "com.ugb.imagenes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312084842680-imr3nakt22kei5opgn7trblbo5d41lik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ut4alQ6bolLLs-AbcHf26gnbGrIn68w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312084842680-imr3nakt22kei5opgn7trblbo5d41lik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
